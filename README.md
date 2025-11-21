@@ -209,10 +209,12 @@ fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=mark
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](path-to-screenshot)
+<img width="1347" height="619" alt="image" src="https://github.com/user-attachments/assets/506d18e8-5834-45fc-acb2-9e84e5448ee3" />
+
 
 ### Coin Detail Page
-![Coin Detail Screenshot](path-to-screenshot)
+<img width="1206" height="634" alt="image" src="https://github.com/user-attachments/assets/2c6f3a53-e2c5-4c2d-aeaf-57bdc6b3edc0" />
+
 
 ---
 
